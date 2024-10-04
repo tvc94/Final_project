@@ -21,6 +21,7 @@ The dataset consists of various attributes of luxury fashion items, including pr
 - **SciPy/Statsmodels**: Utilized for performing statistical tests.
 - **Matplotlib/Seaborn**: Visualize data through charts and graphs.
 - **Jupyter Notebook**: Document the analysis and findings.
+- **Tableau**: Vizualizations
 
 ## Getting Started
 
