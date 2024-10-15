@@ -46,4 +46,5 @@ Contributions to the analysis are welcome. For major changes, please open an iss
 ## Data Set
 https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
 
-
+## Trello
+https://trello.com/b/f7I2YtRq/second-hand-luxury-project
